@@ -5,7 +5,7 @@ A high-performance, responsive Product Admin Dashboard built for the **Nexgensis
 ---
 
 ## 🚀 Live Demo & Repository
-- **Submission Form**: [Google Form](https://forms.gle/wXScuDqFPMZDrm326)
+- **Live Demo**: [https://viraj-product-dashboard.netlify.app/](https://viraj-product-dashboard.netlify.app/)
 - **Framework**: Next.js (App Router), React 19, TypeScript
 - **Styling**: Tailwind CSS
 - **Data Source**: [DummyJSON API](https://dummyjson.com)
